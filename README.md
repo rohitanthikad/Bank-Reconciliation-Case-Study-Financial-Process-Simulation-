@@ -1,47 +1,48 @@
-# Bank Reconciliation & Financial Adjustment Case Study
+# Bank Reconciliation Case Study – Financial Process Simulation
 
 ## 📌 Overview
-This project simulates a real-world bank reconciliation process involving identification of discrepancies between bank statements and accounting books. It includes journal entry corrections and a financial memo analyzing root causes and suggesting process improvements.
+This project is a financial accounting simulation based on a bank reconciliation process. It involves identifying discrepancies between bank statements and accounting records, preparing correcting journal entries, and analyzing root causes of accounting errors. A formal memo is also included with recommendations for improving internal financial controls.
 
 ---
 
 ## 🎯 Objective
-- To identify mismatches between bank records and book entries  
-- To pass correcting journal entries for financial discrepancies  
-- To analyze root causes of accounting errors  
-- To propose improvements in reconciliation processes  
+- Identify mismatches between bank records and book entries  
+- Prepare correcting journal entries for financial adjustments  
+- Analyse root causes of reconciliation errors  
+- Suggest improvements in accounting and reconciliation processes  
 
 ---
 
-## 🧠 What I Did
-- Analysed bank statement transactions including NEFT, interest, charges, and expenses  
-- Identified errors such as duplicate entries, unrecorded transactions, and amount mismatches  
-- Prepared correcting journal entries using double-entry accounting principles  
-- Drafted a financial memo summarizing findings and recommending process improvements  
+## 🧠 Key Work Done
+- Analysed bank transactions including NEFT payments, interest, bank charges, and expenses  
+- Identified unrecorded, duplicate, and incorrectly recorded transactions  
+- Passed correcting journal entries using double-entry accounting principles  
+- Prepared a professional memo summarizing findings and process improvements  
 
 ---
 
-## 🛠️ Skills Used
+## 🛠️ Tools & Skills Used
 - Bank Reconciliation Statement (BRS)  
 - Journal Entries & Double-Entry Accounting  
-- Financial Error Detection  
-- Root-Cause Analysis  
-- Business Communication (Memo Writing)  
-- Attention to Detail in Financial Records  
+- Financial Error Detection & Correction  
+- Excel (Data tracking & reconciliation register)  
+- Financial Reporting & Business Communication  
+- Analytical Thinking & Attention to Detail  
 
 ---
 
-## 📁 Repository Contents
-- journal-entries.md → Correcting journal entries for all transactions  
-- finance-memo.md → Memo to Finance Head with analysis and recommendations  
-- project-summary.md (optional) → High-level overview of the project  
+## 📁 Repository Structure
+- Part_A_Discrepancy_Register.xlsx → Bank reconciliation discrepancies  
+- Part_B_Journal_Entries.pdf → Accounting adjustments  
+- Part_C_Analysis.pdf → Financial analysis and interpretation  
+- Part_D_Memo.pdf → Report to Finance Head  
 
 ---
 
-## 📊 Key Learning Outcome
-This project helped strengthen my understanding of real-world accounting workflows, especially how reconciliation is used in financial reporting, internal controls, and error detection in financial systems.
+## 📊 Outcome
+This project demonstrates practical understanding of real-world accounting workflows, especially how reconciliation is used in financial reporting, audit preparation, and internal control systems.
 
 ---
 
 ## 🔗 Note
-This is a manual accounting simulation based on standard bookkeeping and reconciliation principles used in finance and audit processes.
+This is a manual simulation based on standard accounting and reconciliation principles used in finance and audit environments.
